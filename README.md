@@ -1,4 +1,4 @@
-# APCS k24 STAT451 (Applied Statistics for Scientists and Engineers)
+# Applied Statistics for Scientists and Engineers I
 pretty good for the first half semester, inferential stats kinda sucks
 
 ![alt](niigo.png)
